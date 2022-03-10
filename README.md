@@ -1,4 +1,6 @@
-# lunarloong_dreamscape
+# lunarloong_dreamscape :cherry_blossom:
+## this is my personal blog :wolf:
+## welcome for everyone!!!
 
 ## Project setup
 ```
